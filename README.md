@@ -18,11 +18,11 @@ A level-headed, goal oriented Junior Software Developer with a solid Mathematics
 ## Projects  
 <!-- TABLE_GENERATE_START -->
 
-| Project Name     | Description                                | Technologies Used                                                                               |
-| -------------    | -------------                              | -------------                                                                                   |
-| AI-Tastic Tales  | A personalised AI-generating picture book  | JavaScript, React.js, Node.js, Express.js, Jest, Cypress, Handlebars.js, Nodemon.js, HTML, CSS  |
-| Farcebook        | A Facebook-inspired web application        | JavaScript, React.js, Node.js, Express.js, MongoDB, Jest, HTML, CSS                             |
-| MakersBnB        | An Airbnb inspired web application         | Ruby, ERB, Sinatra, PostgreSQL, RSpec, HTML, CSS                                                |
+| Project Name                                                              | Description                                | Technologies Used                                                                               |
+| -------------                                                             | -------------                              | -------------                                                                                   |
+| [AI-Tastic Tales](https://github.com/AI-tistic-Tales/AI-tistic-Tales)     | A personalised AI-generating picture book  | JavaScript, React.js, Node.js, Express.js, Jest, Cypress, Handlebars.js, Nodemon.js, HTML, CSS  |
+| [Farcebook](https://github.com/ManuelaIacobovici/acebook-mern-water-team) | A Facebook-inspired web application        | JavaScript, React.js, Node.js, Express.js, MongoDB, Jest, HTML, CSS                             |
+| [MakersBnB](https://github.com/SomthingInteresting/makersbnb-ruby-seed)   | An Airbnb inspired web application         | Ruby, ERB, Sinatra, PostgreSQL, RSpec, HTML, CSS                                                |
 
 <!-- TABLE_GENERATE_END -->
 
